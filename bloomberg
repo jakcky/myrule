@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,pixel-config.reddit.com
+DOMAIN-SUFFIX,conversions-config.reddit.com
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,onelink.me
+DOMAIN-SUFFIX,wa.onelink.me
+DOMAIN-SUFFIX,px-cloud.net
+DOMAIN-SUFFIX,collector-px8fcgygk4.px-cloud.net
+# 保险关键词匹配（包含 bloomberg 内容调用的域名）
+DOMAIN-KEYWORD,bloomberg
