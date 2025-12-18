@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,px-cloud.net
 DOMAIN-SUFFIX,collector-px8fcgygk4.px-cloud.net
 # 保险关键词匹配（包含 bloomberg 内容调用的域名）
 DOMAIN-KEYWORD,bloomberg
+DOMAIN-SUFFIX,bwbx.io
+DOMAIN-SUFFIX,assets.bwbx.io
