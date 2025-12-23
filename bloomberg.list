@@ -12,3 +12,13 @@ DOMAIN-SUFFIX,collector-px8fcgygk4.px-cloud.net
 DOMAIN-KEYWORD,bloomberg
 DOMAIN-SUFFIX,bwbx.io
 DOMAIN-SUFFIX,assets.bwbx.io
+
+# ===== Reuters =====
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,www.reuters.com
+DOMAIN-SUFFIX,static.reuters.com
+DOMAIN-SUFFIX,graphics.reuters.com
+DOMAIN-SUFFIX,cdn.reuters.com
+DOMAIN-SUFFIX,images.reuters.com
+DOMAIN-SUFFIX,video.reuters.com
+DOMAIN-SUFFIX,media.reuters.com
