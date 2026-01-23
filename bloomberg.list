@@ -1,19 +1,14 @@
-DOMAIN-SUFFIX,bloomberg.com
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,pixel-config.reddit.com
-DOMAIN-SUFFIX,conversions-config.reddit.com
-DOMAIN-SUFFIX,prodregistryv2.org
-DOMAIN-SUFFIX,onelink.me
-DOMAIN-SUFFIX,wa.onelink.me
-DOMAIN-SUFFIX,px-cloud.net
-DOMAIN-SUFFIX,collector-px8fcgygk4.px-cloud.net
-# 保险关键词匹配（包含 bloomberg 内容调用的域名）
+# ===== Bloomberg =====
 DOMAIN-KEYWORD,bloomberg
+DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bwbx.io
 DOMAIN-SUFFIX,assets.bwbx.io
+DOMAIN-SUFFIX,bloombergmedia.com
+DOMAIN-SUFFIX,live-video.net
+DOMAIN-SUFFIX,mlbmedia.com
 
 # ===== Reuters =====
+DOMAIN-KEYWORD,reuters
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,www.reuters.com
 DOMAIN-SUFFIX,static.reuters.com
@@ -22,3 +17,57 @@ DOMAIN-SUFFIX,cdn.reuters.com
 DOMAIN-SUFFIX,images.reuters.com
 DOMAIN-SUFFIX,video.reuters.com
 DOMAIN-SUFFIX,media.reuters.com
+
+# ===== SCMP (South China Morning Post) =====
+DOMAIN-KEYWORD,scmp
+DOMAIN-SUFFIX,scmp.com
+DOMAIN-SUFFIX,cdn.scmp.com
+DOMAIN-SUFFIX,static.scmp.com
+DOMAIN-SUFFIX,assets.scmp.com
+
+# ===== New York Times =====
+DOMAIN-KEYWORD,nytimes
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,static.nytimes.com
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimg.com
+
+# ===== Wall Street Journal =====
+DOMAIN-KEYWORD,wsj
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+DOMAIN-SUFFIX,wsjvideo.com
+DOMAIN-SUFFIX,marketwatch.com
+DOMAIN-SUFFIX,barrons.com
+DOMAIN-SUFFIX,dowjones.com
+
+# ===== Seeking Alpha =====
+DOMAIN-KEYWORD,seekingalpha
+DOMAIN-SUFFIX,seekingalpha.com
+DOMAIN-SUFFIX,static.seekingalpha.com
+DOMAIN-SUFFIX,cdn.seekingalpha.com
+
+# ===== Washington Post =====
+DOMAIN-KEYWORD,washingtonpost
+DOMAIN-KEYWORD,wapo
+DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wpdigital.net
+DOMAIN-SUFFIX,arcpublishing.com
+
+# ===== BBC =====
+DOMAIN-KEYWORD,bbc
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbcmedia.co.uk
+DOMAIN-SUFFIX,bbci.co
+
+# ===== Financial Times =====
+DOMAIN-KEYWORD,ft
+DOMAIN-SUFFIX,ft.com
+DOMAIN-SUFFIX,ftcdn.net
+DOMAIN-SUFFIX,static.ft.com
+DOMAIN-SUFFIX,next.ft.com
+DOMAIN-SUFFIX,cdn.ft.com
