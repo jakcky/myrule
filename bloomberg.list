@@ -34,7 +34,6 @@ DOMAIN-SUFFIX,nytco.com
 DOMAIN-SUFFIX,nytimg.com
 
 # ===== Wall Street Journal =====
-DOMAIN-KEYWORD,wsj
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wsjvideo.com
@@ -50,14 +49,12 @@ DOMAIN-SUFFIX,cdn.seekingalpha.com
 
 # ===== Washington Post =====
 DOMAIN-KEYWORD,washingtonpost
-DOMAIN-KEYWORD,wapo
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wpdigital.net
 DOMAIN-SUFFIX,arcpublishing.com
 
 # ===== BBC =====
-DOMAIN-KEYWORD,bbc
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
@@ -65,7 +62,6 @@ DOMAIN-SUFFIX,bbcmedia.co.uk
 DOMAIN-SUFFIX,bbci.co
 
 # ===== Financial Times =====
-DOMAIN-KEYWORD,ft
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,static.ft.com
