@@ -1,0 +1,9 @@
+# ===== Truth Social =====
+DOMAIN-KEYWORD,truthsocial
+DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-SUFFIX,truthsocial-cdn.com
+DOMAIN-SUFFIX,ts-cdn.com
+
+# ===== Truth Social 静态资源 =====
+DOMAIN-SUFFIX,cloudflareinsights.com
+
